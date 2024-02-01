@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @zenoxrahul
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m @webdev.rahul
+Crafting the web with JavaScript's finesse, C#'s elegance, and ASP.NET's power.
+Committing progress........, one line at a time.
+💻🚀 #CodePassion #WebDevJourney
 
 
 <!---
